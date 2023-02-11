@@ -1,0 +1,8 @@
+C:\Users\ST293YY\source\repos\DrinkExample_Feb7\DrinkExample_Feb7\bin\Debug\DrinkExample_Feb7.exe.config
+C:\Users\ST293YY\source\repos\DrinkExample_Feb7\DrinkExample_Feb7\bin\Debug\DrinkExample_Feb7.exe
+C:\Users\ST293YY\source\repos\DrinkExample_Feb7\DrinkExample_Feb7\bin\Debug\DrinkExample_Feb7.pdb
+C:\Users\ST293YY\source\repos\DrinkExample_Feb7\DrinkExample_Feb7\obj\Debug\DrinkExample_Feb7.csproj.AssemblyReference.cache
+C:\Users\ST293YY\source\repos\DrinkExample_Feb7\DrinkExample_Feb7\obj\Debug\DrinkExample_Feb7.csproj.SuggestedBindingRedirects.cache
+C:\Users\ST293YY\source\repos\DrinkExample_Feb7\DrinkExample_Feb7\obj\Debug\DrinkExample_Feb7.csproj.CoreCompileInputs.cache
+C:\Users\ST293YY\source\repos\DrinkExample_Feb7\DrinkExample_Feb7\obj\Debug\DrinkExample_Feb7.exe
+C:\Users\ST293YY\source\repos\DrinkExample_Feb7\DrinkExample_Feb7\obj\Debug\DrinkExample_Feb7.pdb

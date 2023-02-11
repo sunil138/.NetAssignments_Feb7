@@ -1,0 +1,8 @@
+C:\Users\ST293YY\source\repos\Stringreference\Stringreference\bin\Debug\Stringreference.exe.config
+C:\Users\ST293YY\source\repos\Stringreference\Stringreference\bin\Debug\Stringreference.exe
+C:\Users\ST293YY\source\repos\Stringreference\Stringreference\bin\Debug\Stringreference.pdb
+C:\Users\ST293YY\source\repos\Stringreference\Stringreference\obj\Debug\Stringreference.csproj.AssemblyReference.cache
+C:\Users\ST293YY\source\repos\Stringreference\Stringreference\obj\Debug\Stringreference.csproj.SuggestedBindingRedirects.cache
+C:\Users\ST293YY\source\repos\Stringreference\Stringreference\obj\Debug\Stringreference.csproj.CoreCompileInputs.cache
+C:\Users\ST293YY\source\repos\Stringreference\Stringreference\obj\Debug\Stringreference.exe
+C:\Users\ST293YY\source\repos\Stringreference\Stringreference\obj\Debug\Stringreference.pdb

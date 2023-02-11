@@ -1,0 +1,8 @@
+C:\Users\ST293YY\source\repos\FileHandling_Feb8\FileHandling_Feb8\bin\Debug\FileHandling_Feb8.exe.config
+C:\Users\ST293YY\source\repos\FileHandling_Feb8\FileHandling_Feb8\bin\Debug\FileHandling_Feb8.exe
+C:\Users\ST293YY\source\repos\FileHandling_Feb8\FileHandling_Feb8\bin\Debug\FileHandling_Feb8.pdb
+C:\Users\ST293YY\source\repos\FileHandling_Feb8\FileHandling_Feb8\obj\Debug\FileHandling_Feb8.csproj.AssemblyReference.cache
+C:\Users\ST293YY\source\repos\FileHandling_Feb8\FileHandling_Feb8\obj\Debug\FileHandling_Feb8.csproj.SuggestedBindingRedirects.cache
+C:\Users\ST293YY\source\repos\FileHandling_Feb8\FileHandling_Feb8\obj\Debug\FileHandling_Feb8.csproj.CoreCompileInputs.cache
+C:\Users\ST293YY\source\repos\FileHandling_Feb8\FileHandling_Feb8\obj\Debug\FileHandling_Feb8.exe
+C:\Users\ST293YY\source\repos\FileHandling_Feb8\FileHandling_Feb8\obj\Debug\FileHandling_Feb8.pdb
